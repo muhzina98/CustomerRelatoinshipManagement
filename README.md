@@ -68,7 +68,7 @@ Example: - `users`: id, username, password_hash, role
 
 Base path: /api
 
-Auth
+User
 
 POST /api/auth/register — register a new user
 
